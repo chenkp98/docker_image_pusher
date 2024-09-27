@@ -1,1 +1,1 @@
-rstudio/rstudio-workbench
+dceoy/rstudio-server
