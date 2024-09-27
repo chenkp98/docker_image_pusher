@@ -1,1 +1,1 @@
-rocker/rstudio
+rstudio/rstudio-workbench
