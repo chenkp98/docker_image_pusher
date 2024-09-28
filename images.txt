@@ -1,1 +1,1 @@
-dceoy/rstudio-server
+rocker/rstudio:4.4
