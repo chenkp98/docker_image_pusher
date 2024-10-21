@@ -1,1 +1,1 @@
-rocker/rstudio:4.4
+jupyter/datascience-notebook
