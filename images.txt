@@ -1,1 +1,1 @@
-chiefcontainer/chief
+chiefcontainer/chief:v1.11
