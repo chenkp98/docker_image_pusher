@@ -1,1 +1,1 @@
-rocker/rstudio:4.4
+jupyter/scipy-notebook:x86_64-ubuntu-22.04
