@@ -1,1 +1,1 @@
-slaclab/cryosparc-desktop:4.7.0-0
+alphafold3
