@@ -1,1 +1,1 @@
-jurgjn/alphafold3:v3.0.4
+jurgjn/alphafold3
